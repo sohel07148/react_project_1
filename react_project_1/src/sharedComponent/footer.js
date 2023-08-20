@@ -10,7 +10,7 @@ function Footer({}) {
     <div class="footer">
         <div class="container">
             <div class="row">
-                <div class="col-6">
+                <div class="col-lg-6 col-md-12 col-12">
                     <div class="about-section">
                         <h2>Instacoach</h2>
                         <p>Book private lessons, virtual coaching, and college mentoring sessions with NCAA,
@@ -41,7 +41,7 @@ function Footer({}) {
 
                     </div>
                 </div>
-                <div class="col-6">
+                <div class="col-lg-6 col-md-12 col-12">
                     <div class="list-section">
                         <h2>Join our mailing list</h2>
                         <div class="box">
